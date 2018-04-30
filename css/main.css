@@ -88,9 +88,12 @@ textarea {
   display: block;
 }
 
+html, body {
+    height: 100vh;
+}
+
 body {
   background-color: #f5f5f5;
-  height: 100vh;
 }
 
 main {
