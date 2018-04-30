@@ -114,7 +114,7 @@ h1 {
   background-color: #fff;
   border: 1px solid #ddd;
   border-radius: 3px;
-  padding: 20px;
+  padding: 0px;
   display: inline-block;
   width: 100%;
 }
@@ -122,10 +122,12 @@ h1 {
 .termcheck input{
   float: left;
   width: 30px;
+  margin: 20px 0 20px 20px;
 }
 .termcheck label{
   float: left;
   width: 248px;
+  margin: 20px 20px 0 0;
 }
 
 
